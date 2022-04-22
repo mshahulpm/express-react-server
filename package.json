@@ -1,0 +1,14 @@
+{
+  "name": "react-multipage-server",
+  "version": "1.0.0",
+  "description": "this is a simple express server to serve react app developed by multi entry",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mohammed shahul p m",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
