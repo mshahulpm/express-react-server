@@ -1,0 +1,1 @@
+import{c as r,j as e,R as t}from"./jsx-runtime.8610fe3b.js";function o(){return e("div",{children:e("h1",{children:"Hello World from App 2"})})}r.createRoot(document.getElementById("root")).render(e(t.StrictMode,{children:e(o,{})}));

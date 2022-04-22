@@ -1,0 +1,1 @@
+import{c as t,j as e,R as o}from"./jsx-runtime.8610fe3b.js";function r(){return e("h1",{children:"About Page"})}t.createRoot(document.getElementById("root")).render(e(o.StrictMode,{children:e(r,{})}));
